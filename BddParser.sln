@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BddParser", "src\BddParser\BddParser.csproj", "{223978FC-D2B5-43D9-95FD-48F5B3A8430B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BddParser.Tests", "test\BddParser.Tests\BddParser.Tests.csproj", "{8608C4C2-497C-47E6-8260-74713F4EE73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223978FC-D2B5-43D9-95FD-48F5B3A8430B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223978FC-D2B5-43D9-95FD-48F5B3A8430B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223978FC-D2B5-43D9-95FD-48F5B3A8430B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223978FC-D2B5-43D9-95FD-48F5B3A8430B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8608C4C2-497C-47E6-8260-74713F4EE73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8608C4C2-497C-47E6-8260-74713F4EE73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8608C4C2-497C-47E6-8260-74713F4EE73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8608C4C2-497C-47E6-8260-74713F4EE73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
